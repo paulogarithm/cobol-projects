@@ -109,5 +109,3 @@
                 into out-record
            end-string.
            write out-record.
-
-           
